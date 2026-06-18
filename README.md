@@ -5,7 +5,9 @@ Markdown
 
 ## Integrantes del Equipo
 * Héctor Manuel Castañeda Godoy
+  REG: 23310342
 * Alan Bladimir Almaraz Cortes
+  REG: 23310399
 
 ---
 
